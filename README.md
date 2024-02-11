@@ -1,1 +1,1 @@
-# om-medical-point
+# om-medicalpoint
